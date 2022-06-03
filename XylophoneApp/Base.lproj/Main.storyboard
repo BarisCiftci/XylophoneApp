@@ -55,6 +55,9 @@
                                                     <fontDescription key="titleFontDescription" type="boldSystem" pointSize="32"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyCPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3en-xI-DpD"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -76,6 +79,9 @@
                                                     <fontDescription key="titleFontDescription" type="boldSystem" pointSize="32"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyCPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cTm-I1-cur"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -97,6 +103,9 @@
                                                     <fontDescription key="titleFontDescription" type="boldSystem" pointSize="32"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyCPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="V1i-Ix-o5w"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -118,6 +127,9 @@
                                                     <fontDescription key="titleFontDescription" type="boldSystem" pointSize="32"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyCPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="38u-pX-9kS"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -139,6 +151,9 @@
                                                     <fontDescription key="titleFontDescription" type="boldSystem" pointSize="32"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyCPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Wn4-Lw-6ET"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -160,6 +175,9 @@
                                                     <fontDescription key="titleFontDescription" type="boldSystem" pointSize="32"/>
                                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="keyCPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="S3P-Lv-FCr"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
